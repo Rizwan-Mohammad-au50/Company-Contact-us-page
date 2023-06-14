@@ -1,0 +1,27 @@
+.contactHeading{
+    /* position: absolute;
+    left: 188px;
+    top: 143px; */
+
+    width: 315px;
+    height: 72px;
+
+    margin: 0;
+    
+    font-weight: 800;
+    font-size: 48px;
+}
+.someDesc{
+    /* position: absolute;
+    left: 188px;
+    top: 230px; */
+
+    width: 975px;
+    height: 72px;
+    
+    font-weight: 600;
+    font-size: 16px;
+    color: gray;
+
+    margin: 0;
+}

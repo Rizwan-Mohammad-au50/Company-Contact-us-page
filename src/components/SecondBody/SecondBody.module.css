@@ -1,0 +1,108 @@
+.cht_and_call_btn{
+    display: flex;
+    gap: 24px;
+    padding: 10px 18px;
+    
+}
+.mail_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0px;
+    width: 500px;
+}
+.form_and_24Support{
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    /* justify-content: space-between; */
+    max-width: 1200px;
+    gap: 190px;
+    margin: 0 auto;
+}
+/* .form_and_24Support_top_Btns{
+    display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: space-between;
+} */
+._247pic{
+    height: 540px;
+    width: 540px;
+    /* padding-right: 120px; */
+}
+
+.form_controller{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+    width: 500px;
+    /* position: relative; */
+    
+}
+.form_controller input{
+    height: 40px;
+    padding: 0 8px;
+    /* margin: 14px; */
+}
+.form_controller textarea{
+    padding: 8px 8px;
+    /* margin: 14px; */
+}
+.txtarea{
+    margin-bottom: 15px;
+}
+.nameAndEmailLabel{
+    display: flex;
+    position: relative;
+    /* bottom: 271px; */
+    top: 10px;
+    left: 13px;
+    width: 47px;
+    /* padding: 2px; */
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+
+    font-size: 14px;
+}
+.textLabel{
+    display: flex;
+    position: relative;
+    /* bottom: 271px; */
+    top: 10px;
+    left: 13px;
+    width: 32px;
+    /* padding: 2px; */
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+
+    font-size: 14px;
+    
+}
+.userData{
+    overflow-wrap:break-word;
+    /* max-width: 300px;
+    margin: 0 auto; */
+}
+.userDataText{
+    max-width: 300px;
+    margin: 0; 
+}
+.userDataDiv{
+    width: 300px;
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+}
+._Message{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: green;
+    /* font-weight: bold; */
+    font-style: italic;
+    /* width: 500px;*/
+}
